@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PA1.dir/convexhull.cpp.o  -o PA1  -L/usr/local/OpenCV-3.4/lib 

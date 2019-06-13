@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ComputationalGemoetry.dir/Unit_Test/Heap_test.cpp.o  -o ComputationalGemoetry  -L/usr/local/OpenCV-3.4/lib -Wl,-rpath,/usr/local/OpenCV-3.4/lib -lopencv_core -lopencv_highgui -lopencv_imgproc 

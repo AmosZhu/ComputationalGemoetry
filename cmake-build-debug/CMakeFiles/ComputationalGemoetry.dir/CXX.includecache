@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././common/Template/Algorithm.h
+ContainerBase.h
+.././common/Template/ContainerBase.h
+
+.././common/Template/BinaryHeap.h
+Vector.h
+.././common/Template/Vector.h
+
+.././common/Template/ContainerBase.h
+type.h
+.././common/Template/type.h
+iostream
+-
+
+.././common/Template/Vector.h
+stdlib.h
+-
+iostream
+-
+cstring
+-
+ContainerBase.h
+.././common/Template/ContainerBase.h
+Algorithm.h
+.././common/Template/Algorithm.h
+
+.././common/Template/type.h
+
+/mnt/hgfs/Linux/ComputationalGemoetry/Unit_Test/Heap_test.cpp
+common/Template/BinaryHeap.h
+/mnt/hgfs/Linux/ComputationalGemoetry/Unit_Test/common/Template/BinaryHeap.h
+
